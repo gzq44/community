@@ -1,13 +1,13 @@
-package com.giz.community;
+package com.giz.community.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CommunityBaseApplication {
+public class CommunityCommonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CommunityBaseApplication.class, args);
+        SpringApplication.run(CommunityCommonApplication.class, args);
     }
 
 }
