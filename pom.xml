@@ -4,9 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.giz.community</groupId>
     <artifactId>community-all</artifactId>
-    <version>${revision}</version>
+    <revision>1.0.0-SNAPSHOT</revision>
     <name>community-all</name>
     <description>community-all</description>
+    <packaging>pom</packaging>
 
     <modules>
         <module>community-base</module>
